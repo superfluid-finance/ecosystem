@@ -16,7 +16,6 @@ The criteria for a Superfluid App to be approved are:
 - That all other fields are completed and correct
 
 ### Submitting your App
-Once you have authored your Superfluid App entry, you can submit an issue with the open PR attached
+Create an issue with the "New Superfluid App" template
 
 ### Examples
-You can find a simple example of a Superfluid App in:
