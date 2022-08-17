@@ -19,3 +19,4 @@ The criteria for a Superfluid App to be approved are:
 Create an issue with the "New Superfluid App" template
 
 ### Examples
+[DeBank](https://github.com/superfluid-finance/ecosystem/pull/1)
